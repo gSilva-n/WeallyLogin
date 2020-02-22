@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="weallylogin" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b0b60fc-4114-44c5-8542-b40f9238b72a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/WeallyLogin" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WEZj7MoFDJmfiR0hMsTZlXPzgX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="weallylogin" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../plugins/workspace/MillMCIr" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b0b60fc-4114-44c5-8542-b40f9238b72a" name="Default Changelist" comment="" />
+      <created>1578716846873</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578716846873</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="90" key="#Auto_Import" timestamp="1578951438529">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="90" key="#Auto_Import/0.0.1600.860@0.0.1600.860" timestamp="1578951438529" />
+    <state x="605" y="108" key="#com.intellij.ide.util.MemberChooser" timestamp="1578890794418">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="108" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1578890794418" />
+    <state x="530" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578950303124">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1578950303124" />
+    <state x="580" y="187" key="FileChooserDialogImpl" timestamp="1579136646559">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="187" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1579136646559" />
+    <state x="563" y="300" width="664" height="320" key="Github.ShareDialog" timestamp="1579100736863">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="563" y="300" width="664" height="320" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1579100736863" />
+    <state x="330" y="87" key="Maven.ArtifactSearchDialog" timestamp="1578717023372">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="330" y="87" key="Maven.ArtifactSearchDialog/0.0.1600.860@0.0.1600.860" timestamp="1578717023372" />
+    <state x="280" y="6" key="SettingsEditor" timestamp="1579136651081">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="280" y="6" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1579136651081" />
+    <state x="456" y="195" width="672" height="677" key="run.anything.popup" timestamp="1578888890245">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" width="672" height="677" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1578888890245" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1578887879234">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1578887879234" />
+  </component>
+</project>

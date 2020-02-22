@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="weallylogin">
+    <output-path>$USER_HOME$/Documents/JAPAN NETWORK/plugins</output-path>
+    <root id="archive" name="weallylogin.jar">
+      <element id="module-output" name="WeallyLogin" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>

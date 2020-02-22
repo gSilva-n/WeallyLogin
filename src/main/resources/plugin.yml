@@ -1,0 +1,14 @@
+name: WeallyLogin
+version: "1.0-SNAPSHOT"
+author: [Naxsi_]
+main: com.redeweally.login.Main
+commands:
+  registrar:
+    aliases:
+      - "register"
+      - "reg"
+    description: "Use para registrar"
+  logar:
+    aliases:
+      - "login"
+    description: "Use para logar"

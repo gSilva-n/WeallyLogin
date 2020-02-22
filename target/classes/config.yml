@@ -1,0 +1,9 @@
+MySQL:
+  state: false
+  hostname: "localhost"
+  username: "root"
+  password: "pass"
+  database: "servidor"
+
+lobbies:
+  lobby1: "lobby"
